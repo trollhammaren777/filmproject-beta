@@ -47,9 +47,3 @@ target/
 *.log
 *.pyc
 local_settings.py
-.env
-db.sqlite3
-
-.env.dev
-.env.prod
-.env.prod.db
